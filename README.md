@@ -7,4 +7,5 @@ Voici les deux pieces principales de notre mécanisme que nous avons designé su
 ![image](https://user-images.githubusercontent.com/83219755/118818155-4bc8b180-b8b4-11eb-9508-61d0cb4b5c7d.png)
 
 Malheureusement l'imprimante 3d nous plante au bout de quasiment 1H de préparation, il nous a fallu improvisé est terminer le travail a sa place, de même pour l'autre pièce(l'imprimante a bacler son travail).
+![IMG_20210519_145303 1](https://user-images.githubusercontent.com/83219755/118819488-add5e680-b8b5-11eb-9555-f02965cf35bc.jpg)
 Par manque de matériel et d'imagination nous prenons une boite a chaussure comme base pour le distributeur. Nous l'aménageons correctement pour pouvoir y mettre aisément la carte UCA le servomoteur, le capteur ultrason et les pièces imprimé. Pour compléter notre projet nous avons crée sur node red un système qui nous envoie un email quand le moteur tourne ou reviens a ça position initiale.
