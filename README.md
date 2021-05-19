@@ -1,4 +1,3 @@
-![IMG_20210519_172817 1](https://user-images.githubusercontent.com/83219755/118840855-0f06b580-b8c8-11eb-980f-9f7d9e95435c.jpg)
 # L1_Projet_candys_turn
 Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licence 1 à l’Université Côte d'Azur
 
