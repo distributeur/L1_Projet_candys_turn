@@ -7,7 +7,7 @@ Voici les deux pieces principales de notre mécanisme que nous avons designé su
 ![image](https://user-images.githubusercontent.com/83219755/118818155-4bc8b180-b8b4-11eb-9508-61d0cb4b5c7d.png)
 
 Malheureusement l'imprimante 3d nous plante au bout de quasiment 1H de préparation, il nous a fallu improvisé est terminer le travail a sa place, de même pour l'autre pièce(l'imprimante a bacler son travail).
-![IMG_20210519_172817 1](https://user-images.githubusercontent.com/83219755/118840908-1af27780-b8c8-11eb-95ea-d15bce4889ef.jpg)
+![2021-05-19 23_19_01-118840908-1af27780-b8c8-11eb-95ea-d15bce4889ef jpg (3000×4000)](https://user-images.githubusercontent.com/83219755/118886153-ddf2a900-b8f8-11eb-8523-97bd884b6858.png)
 
 Ensuite, nous avons commencer par établir le code qui sera la base de notre projet, ils nous a fallu déterminés une certaine distance avec le capteur ultrason pour que quand on tend la main celui-ci déclenche le servomoteur qui permet de faire basculer le mécanisme et nous donnerai une certaine quantité de bonbon.
 
