@@ -1,7 +1,7 @@
 # L1_Projet_candys_turn
 Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licence 1 à l’Université Côte d'Azur
 
-Nous avons commencé par réfléchir au mécanisme que nous allions utiliser, étant dnné que l'on avait accès qu'a un servomoteur capable de tourner a 180°, nous avons donc penser à un mécanisme de rotation d'une piece circulaire dans laquelles est creusé un réservoire destiné au transport des bonbons. Aussi il était nécessaire pour compléter le mécanisme d'entourer la piece circulaire d'une autre piece permettant le bon acheminement des bonbons lors de la rotation.
+Nous avons commencé par réfléchir au mécanisme que nous allions utiliser. Etant donné que l'on avait accès qu'a un servomoteur capable de tourner a 180°, nous avons donc penser à un mécanisme de rotation d'une piece circulaire dans laquelles est creusé un réservoire destiné au transport des bonbons. Aussi il était nécessaire pour compléter le mécanisme d'entourer la piece circulaire d'une autre piece permettant le bon acheminement des bonbons lors de la rotation.
 Voici les deux pieces principales de notre mécanisme que nous avons designé sur tinkercad afin de les imprimer en 3D:
 
 ![image](https://user-images.githubusercontent.com/83219755/118818155-4bc8b180-b8b4-11eb-9508-61d0cb4b5c7d.png)
