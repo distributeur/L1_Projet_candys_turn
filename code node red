@@ -450,7 +450,7 @@ void loop() {
   //myservo.write(180);                  // sets the servo position according to the scaled value
                   // sets the servo position according to the scaled value
   delay(200);
-  if(distance<2)
+  if(distance<3)
   {
      myservo.write(180);
      delay(500);
