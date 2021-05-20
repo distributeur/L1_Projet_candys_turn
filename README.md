@@ -12,6 +12,7 @@ Malheureusement nous avons rencontré de nombreux problèmes avec les imprimante
 
 Ensuite, nous avons commencer par établir le code qui permet de contrôler le capteur et le servo moteur. Ils nous a fallu déterminés une certaine distance avec le capteur ultrason pour que quand on tend la main celui-ci déclenche le servomoteur qui permet de faire basculer le mécanisme et nous donnerai une certaine quantité de bonbon. 
 (voir code1)
+
 Puis nous avons améliorer notre code en le fusionnnant avec un autre code lorawann et utiliser le logiciel node red ainsi que la plateforme The Thing Network pour ajouté la fonctionnalité qui lorsque le distributeur nous donne des bonbons nous recevons un mail d'alerte.
 (voir code2)
 
