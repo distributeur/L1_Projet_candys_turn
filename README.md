@@ -12,11 +12,11 @@ Malheureusement nous avons rencontré de nombreux problèmes avec les imprimante
 
 Ensuite, nous avons commencer par établir le code qui permet de contrôler le capteur et le servo moteur. Ils nous a fallu déterminés une certaine distance avec le capteur ultrason pour que quand on tend la main celui-ci déclenche le servomoteur qui permet de faire basculer le mécanisme et nous donnerai une certaine quantité de bonbon. 
 (voir code1)
+Pour compléter notre projet nous avons crée sur node red un système qui nous envoie un email quand le moteur tourne ou reviens a ça position initiale. 
+(voir code2)
 
 
 Nous avons pris une boite a chaussure comme base pour le distributeur. Nous l'avons aménagé correctement pour pouvoir y mettre aisément la carte UCA le servomoteur, le capteur ultrason et les pièces du mécanisme. 
 
-Pour compléter notre projet nous avons crée sur node red un système qui nous envoie un email quand le moteur tourne ou reviens a ça position initiale. 
-(voir code2)
 
 
